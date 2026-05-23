@@ -5,7 +5,7 @@ This data-only package supports the manuscript "Reduced-Order Dynamic Executabil
 Author: HH  
 Affiliation: University College London (UCL)
 
-The package contains simulation-only numerical outputs, processed figures, and supplementary videos. MATLAB source code and other script files have been removed so that the archive can be uploaded as a clean GitHub data/release package.
+The package contains simulation-only numerical outputs, processed figures, and supplementary videos. It is organized as a clean GitHub data/release package for review, inspection, and archival sharing.
 
 ## Contents
 
@@ -17,7 +17,3 @@ The package contains simulation-only numerical outputs, processed figures, and s
 ## Scope
 
 All results are simulation-only. The friction and contact outputs are reduced-order numerical extensions and should not be interpreted as experimentally identified physical parameters.
-
-## Source Code Policy
-
-This GitHub package intentionally excludes MATLAB implementation files (`.m`, `.mlx`, `.p`) and script files (`.py`, `.ps1`, `.bat`, `.sh`). It is intended for data inspection, figure/video review, and archival sharing rather than source-code reproduction.
