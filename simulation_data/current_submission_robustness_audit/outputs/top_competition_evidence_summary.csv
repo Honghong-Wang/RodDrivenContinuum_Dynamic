@@ -1,0 +1,11 @@
+group,metric,value,criterion,status
+contact grid replay,max relative tip-error change to finest grid,0.0624702497057671,<= 0.20,pass
+contact grid replay,max relative normal-force change to finest grid,0.0691074571338652,<= 0.20,pass
+endpoint contact approximation,max relative frozen-J pullback error,0.0241774258894804,<= 0.05,pass
+endpoint contact approximation,95th-percentile relative frozen-J pullback error,0.0170052450991488,<= 0.03,pass
+endpoint contact approximation,max relative frozen-J velocity error,0.188452093544518,reported,reported
+command optimizer,best fixed-baseline maximum tracking error (mm),0.615842274640478,reported,reported
+command optimizer,lowest force-saturation fraction,0.0102249488752556,<= 0.02,pass
+friction-aware optimizer,formal evaluation budget,16,>= 16,pass
+friction-aware optimizer,max high-order redistribution leakage,2.23770778182004e-18,<= 1e-12,pass
+computational cost,contact grid replay wall time (s),0,reported,reported

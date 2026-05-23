@@ -1,0 +1,13 @@
+check_group,metric,value,criterion,status
+mass matrix,minimum eigenvalue,3.08959999745191e-08,> 0,pass
+mass matrix,maximum symmetry error,0,<= 1e-12,pass
+mass discretization,maximum relative difference to N=41,0.112929734227793,<= 0.18,pass
+contact law,normal-force linearity R2,1,>= 0.999,pass
+contact law,maximum opening residual,0,= 0,pass
+contact law,maximum Coulomb cone utilization,0.999999999972224,<= 1,pass
+contact dynamics,finest force convergence error,0.000594246993321484,< 0.02,pass
+contact dynamics,finest penetration convergence error,0.000594250535221029,< 0.02,pass
+robot endpoint replay,maximum tip error (mm),0.320545307053773,reported,reported
+robot endpoint replay,maximum opening residual (N),0,= 0,pass
+integrated replay,maximum force utilization,0.928207893168535,< 1,pass
+integrated replay,maximum cone utilization,1,<= 1,pass

@@ -1,0 +1,3 @@
+case_label,mu,duration_s,mean_error_mm,max_error_mm,max_force_N,force_saturation_fraction,force_rate_utilization,near_rate_limit_fraction,max_qdot_norm,max_qddot_norm,max_contact_friction_N,max_contact_normal_N,max_contact_slip_m_per_s,net_contact_work_J,constraint_failures
+dynamic_no_friction,0,30,0.126007888790324,0.629464765815715,169.904645290911,0,1.00000039629737,0.0147172734314485,50.3250485088639,1679.61609862888,0,0,0,0,0
+dynamic_with_friction,0.08,30,0.130990155884821,0.614758756054387,167.830893570893,0,0.999999737307139,0.0147172734314485,53.3410211086986,1684.25549339413,1.36629731990248,87.4110727907786,0.00552642350540965,0.00346627132204435,0

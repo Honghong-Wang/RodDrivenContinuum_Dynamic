@@ -1,0 +1,2 @@
+trajectory_name,q_scale,n_curve,n_hold,span_x_mm,span_y_mm,span_z_mm
+spatial double-ellipse crossing,1,720,39,4.10250621792461,9.54539659753319,12.3412539657653

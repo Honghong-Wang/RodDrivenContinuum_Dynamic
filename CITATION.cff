@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Rod-Length-Actuated Continuum Robot Dynamic Executability Dataset"
+message: "If you use this dataset, please cite the associated manuscript."
+authors:
+  - given-names: "HH"
+    affiliation: "University College London (UCL)"
+repository-code: "https://github.com/Honghong-Wang/RodDrivenContinuum_Dynamic"
+date-released: 2026-05-23

@@ -1,0 +1,12 @@
+metric,value
+mean_dynamic_target_error_mm,0.126007888790324
+max_dynamic_target_error_mm,0.629464765815715
+mean_dynamic_quasistatic_tip_delta_mm,0.0959161855384768
+max_dynamic_quasistatic_tip_delta_mm,0.639785544547016
+max_dynamic_force_N,169.904645290911
+max_quasistatic_force_N,161.098093621456
+max_force_delta_N,99.3058505816487
+same_baseline_command_mismatch_m,0
+max_quasistatic_residual,8.35808314575956e-10
+final_qdot_norm,0.0716538644343749
+constraint_failures,0

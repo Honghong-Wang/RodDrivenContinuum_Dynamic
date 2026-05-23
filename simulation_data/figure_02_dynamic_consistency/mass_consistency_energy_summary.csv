@@ -1,0 +1,3 @@
+case_name,use_constant_mass,use_geometric_inertia,sample_count,duration_s,initial_total_energy_J,max_abs_energy_drift_J,max_relative_energy_drift,max_kinetic_energy_J,max_geometric_identity_error
+constant_M_reference,1,0,6,0.05,0.0663531147012629,6.23587493725486e-08,9.39801389178219e-07,0.00116100102251719,NaN
+variable_M_no_C,0,0,6,0.05,0.0663531147012629,8.73715203478231e-07,1.31676592336607e-05,0.00116449594381972,NaN

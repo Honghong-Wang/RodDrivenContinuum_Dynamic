@@ -1,0 +1,11 @@
+check,metric,value,criterion,status
+section-1 guide-hole penalty,max open-gap normal force,0,<= 1e-12 N,pass
+section-1 guide-hole penalty,max local penetration,0.399281331723954,reported in mm,reported
+section-1 load allocation,D3+D9 normal share,0.34082405415257,diagnostic,reported
+recipient load allocation,D2+D5+D6+D8 normal share,0.388309100005067,diagnostic,reported
+Dahl pre-sliding friction,dissipated work,0.00181084431022805,>= 0 J,pass
+friction law comparison,Dahl/smooth work ratio,2.47869101543778,reported,reported
+endpoint unilateral contact,open-gap normal residual,0,<= 1e-12 N,pass
+endpoint complementarity,max N*g opening product,0,<= 1e-12 N m,pass
+endpoint Coulomb law,max cone utilization,1,<= 1,pass
+endpoint work split,tangential dissipated work,0.02504977402893,>= 0 J,pass
